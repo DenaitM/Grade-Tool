@@ -1,6 +1,6 @@
 # grade_tool
 
-Change from numeric grades to letter grades
+changing numeric grade to letter grade
 
 ## Getting Started
 
